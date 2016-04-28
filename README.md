@@ -1,6 +1,16 @@
 ### react-native-guide
 *A repo for my react-native learning.该仓库记录我在项目中集成react-native的过程，踩过的坑。该文档是一下所有文档的合集*
 
+#### React-Native学习项目
+
+##### react-native 生成项目
+
+1. https://github.com/schillerGao/rnToday_2.git
+
+##### 原生项目集成react-native
+
+1. https://github.com/schillerGao/MyGLDemos.git
+
 #### react-native学习资料汇集篇
 
 *React-Native是facebook在2015年早些时候推出的一种颠覆式的移动开发方式，React Native 的语言是基于 JavaScript，这一点可以实现的热部署。小编通过一段时间的学习和调研，总结了一些RN的学习资料，在此分享给小伙伴们0.0，翻迎纠错QAQ，大神请绕道^_^。少则得，多则惑：`官网+阮一峰es6`*
